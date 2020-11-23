@@ -1,2 +1,1 @@
-# slem.py
 loveyou
